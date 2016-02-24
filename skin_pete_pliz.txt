@@ -1,0 +1,55 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication1
+{
+    class Items
+    {
+        public List<int> items;//индексы товаров
+        public List<int> count;//Количество каждого товара
+    }
+}
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication1
+{
+    class AllItems
+    {
+        public List<string> name;
+        public List<int> price;
+    }
+}
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApplication1
+{
+    class Shop
+    {
+        public string address;
+        public int countItems;
+        public Items I;
+
+        public int Refill()//привести товар
+        {
+
+            return 1;
+        }
+        public int ToSell()//продать товар
+        {
+            return 1;
+        }
+    }
+}
