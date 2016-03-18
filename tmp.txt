@@ -18,4 +18,4 @@ natas 13 - jmLTY0qiPZBbaKc9341cqPQZBJv7MQbY
 cygwin - обёртка для windows чтобы использовать команды как на Linux
 Burp Suite - полный контроль отправляемых и принимаемых данных
 hashcat - подбор хешей
-HxD - хороший hex редактор
+Winhe,HxD - хорошие hex редакторы
