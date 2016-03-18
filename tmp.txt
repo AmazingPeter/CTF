@@ -15,7 +15,7 @@ tamper data - работа с заголовками
 natas 11 - U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK
 natas 12 - EDXp0pS26wLKHZy1rDBPUZk0RKfLGIR3
 natas 13 - jmLTY0qiPZBbaKc9341cqPQZBJv7MQbY
-natas 14 - BMPLg96M10TdfaPyVBkJdjymbllQ5L6qdl1
+natas 14 - Lg96M10TdfaPyVBkJdjymbllQ5L6qdl1
 cygwin - обёртка для windows чтобы использовать команды как на Linux
 Burp Suite - полный контроль отправляемых и принимаемых данных
 hashcat - подбор хешей
