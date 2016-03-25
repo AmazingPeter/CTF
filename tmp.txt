@@ -16,6 +16,7 @@ natas 11 - U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK
 natas 12 - EDXp0pS26wLKHZy1rDBPUZk0RKfLGIR3
 natas 13 - jmLTY0qiPZBbaKc9341cqPQZBJv7MQbY
 natas 14 - Lg96M10TdfaPyVBkJdjymbllQ5L6qdl1
+natas 15 - AwWj0w5cvxrZiONgZ9J5stNVkmxdk39J
 cygwin - обёртка для windows чтобы использовать команды как на Linux
 Burp Suite - полный контроль отправляемых и принимаемых данных
 hashcat - подбор хешей
@@ -23,4 +24,5 @@ Winhex,HxD - хорошие hex редакторы
 FF D8 FF E0 - расширение jpeg для hex(или если графический файл то можно указать BMP)
 sqlex - сайт по sql
 хеши - атака на дополнение
+
 
