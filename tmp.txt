@@ -26,3 +26,4 @@ sqlex - сайт по sql
 хеши - атака на дополнение
 webhacking.kr - сайт с заданиями
 http://kmb.ufoctf.ru/ - сайт по помощи по CTF
+Cisco Packet Tracer - диаграмма по сетям
