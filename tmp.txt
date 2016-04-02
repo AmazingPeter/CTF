@@ -29,3 +29,4 @@ http://kmb.ufoctf.ru/ - сайт по помощи по CTF
 Cisco Packet Tracer - диаграмма по сетям
 https://www.hackthissite.org/ - сделать весь JS
 Python 2.7 - подучить
+http://connect.yar.ru/itstart2016 - IT старт
