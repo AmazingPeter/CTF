@@ -39,3 +39,4 @@ KeePass - лучшее хранилище паролей
 010 Editor - программа для просмотра всего кода фотографии
 Stegosolve
 volatility - анализ оперативной памяти
+winHex(Windows),foremost(linux)
