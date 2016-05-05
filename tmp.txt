@@ -40,3 +40,4 @@ KeePass - лучшее хранилище паролей
 Stegosolve
 volatility - анализ оперативной памяти
 winHex(Windows),foremost(linux)
+wireshark
