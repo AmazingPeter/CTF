@@ -1,2 +1,2 @@
-# test
-This is first repository
+# Capture The Flag
+Эта папка содержит интересную инфромацию о компьютерной безопасности
